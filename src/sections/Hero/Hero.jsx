@@ -11,7 +11,7 @@ import linkdlnLight from "../../assets/linkedin-light.svg";
 import twitterDark from "../../assets/twitter-dark.svg"; 
 import githubDark from "../../assets/github-dark.svg"; 
 import linkdlnDark from "../../assets/linkedin-dark.svg"; 
-import CV from "../../assets/cv.pdf"; 
+import CV from "../../assets/Lu_Chin_Chen_CV.pdf"; 
 import { useTheme} from "../../common/ThemeContext"; 
 
 function Hero() {
@@ -51,13 +51,15 @@ function Hero() {
     <a href = "https://www.github.com/" target = "_blank">
         <img src = {githubIcon} alt = "githubIcon"/>
     </a>
-    <a href = "https://www.linkdln.com/" target = "_blank">
+    <a href = "https://www.linkedin.com/in/lucia-c-988084130/" target = "_blank">
         <img src = {linkdlnIcon} alt = "linkdlnIcon"/>
     </a>
 </span>
 <p className =  {styles.description}>
 
-with a passion for developing web applications.    
+Hello, I am Lu Chin. 
+<br/>
+I am a passionate web developer .    
 </p>
 <a href = {CV}  download>
 
