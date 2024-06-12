@@ -18,19 +18,19 @@ function Projects() {
           p="BookStore App"
         />
         <ProjectCard
-          src={Python mini games}
+          src={freshBurger}
           link="https://github.com/lucia20200818/python-apps"
           h3="Python mini games"
           p="Python mini games"
         />
         <ProjectCard
-          src={Hi lo Card}
+          src={hipsster}
           link="https://github.com/lucia20200818/NodeJS_FS_Backend"
           h3="Hi lo Card"
           p="Hi lo Card"
         />
         <ProjectCard
-          src={Covid Map}
+          src={fitLift}
           link="https://github.com/lucia20200818/HiLo-Card"
           h3="Covid Map"
           p="Real Time Covide Map"
