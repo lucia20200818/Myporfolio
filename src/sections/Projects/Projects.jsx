@@ -30,7 +30,7 @@ function Projects() {
           p="Hi lo Card"
         />
         <ProjectCard
-          src={fitLift}
+          src={fitlift}
           link="https://github.com/lucia20200818/HiLo-Card"
           h3="Covid Map"
           p="Real Time Covide Map"
