@@ -25,13 +25,13 @@ function Projects() {
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/lucia20200818/NodeJS_FS_Backend"
+          link="https://github.com/lucia20200818/HiLo-Card"
           h3="Hi lo Card"
           p="Hi lo Card"
         />
         <ProjectCard
           src={fitlift}
-          link="https://github.com/lucia20200818/HiLo-Card"
+          link="https://github.com/lucia20200818/covid-case-map-main"
           h3="Covid Map"
           p="Real Time Covide Map"
         />
