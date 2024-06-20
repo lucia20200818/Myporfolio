@@ -25,9 +25,9 @@ function Projects() {
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/lucia20200818/HiLo-Card"
-          h3="Hi lo Card"
-          p="Hi lo Card"
+          link=" https://manifestit2024.netlify.app/"
+          h3="Manifest it!"
+          p="Rapid to do List for ADD person"
         />
         <ProjectCard
           src={fitlift}
