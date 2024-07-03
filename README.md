@@ -2,6 +2,8 @@
 
 Welcome to my personal website! This site is a showcase of my technical skills and a platform for you to learn more about me and my work. Below, you'll find detailed information about the technologies I used to build this site, the features it offers, and how you can interact with it. 
 
+https://luportfolio2023.netlify.app/
+
 ## Technologies Used
 
 ### HTML
