@@ -59,9 +59,6 @@ function Hero() {
 
 Hello, I am Lu Chin. 
 <br/>
-
-当然，以下是一段翻译成英文的文字，描述你是一名热情的 IT 专业人员：
-
 I am a passionate IT professional with a deep enthusiasm for technology and innovation. With extensive experience in the field, I thrive on solving complex problems and implementing effective solutions. My expertise spans across various domains, including software development, system administration, and cybersecurity.  
 </p>
 <a href = {CV}  download>
