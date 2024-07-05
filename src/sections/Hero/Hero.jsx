@@ -11,7 +11,7 @@ import linkdlnLight from "../../assets/linkedin-light.svg";
 import twitterDark from "../../assets/twitter-dark.svg"; 
 import githubDark from "../../assets/github-dark.svg"; 
 import linkdlnDark from "../../assets/linkedin-dark.svg"; 
-import CV from "../../assets/Lu_Chin_Chen_CV.pdf"; 
+import CV from "../../assets/Lu_Chin_Chen_CV_standard.pdf"; 
 import { useTheme} from "../../common/ThemeContext"; 
 
 function Hero() {
